@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Jupyterbook template
+  title: Drought Exposure
   authors:
     - name: The Copernicus Climate Change Service (C3S)
     - name: entrusted to ECMWF (European Centre for Medium-Range Weather Forecasts)
@@ -8,10 +8,10 @@ project:
   open_access: true
   exclude:
     - developer/*
-  github: ecmwf-training/jupyter-template
+  github: jkeune/drought_exposure
   thebe:
     binder:
-      repo: ecmwf-training/jupyter-template
+      repo: jkeune/drought_exposure
       provider: github
       url: https://mybinder.org
       ref: develop
