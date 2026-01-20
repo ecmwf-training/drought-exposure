@@ -20,8 +20,25 @@ project:
       template: plain_latex_book
       output: exports/book.pdf
   toc:
-    - file: intro-jupyter-template.md
-    - file: jupyter-notebook-template-copernicus.ipynb
+    - file: intro.md
+    - file: tutorials.ipynb
+      title: Tutorials
+      children:
+        - file: tutorials/get_started.ipynb
+    - file: how-to-guides.ipynb
+      title: How-To Guides
+      children:
+        - file: how-to-guides/download_data_from_cds.ipynb
+    - file: explanation.ipynb
+      title: Explanation
+      children:
+        - file: explanation/what_is_drought.md
+    - file: references.ipynb
+      title: References
+      children:
+        - file: references/about.md
+
+
 site:
   options:
     folders: true
