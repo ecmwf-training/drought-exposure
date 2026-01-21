@@ -25,14 +25,21 @@ project:
       title: Tutorials
       children:
         - file: tutorials/get_started.ipynb
+        - file: tutorials/historical_drought.ipynb
+        - file: tutorials/projected_drought.ipynb
+        - file: tutorials/exposure_land.ipynb
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
         - file: how-to-guides/download_data_from_cds.ipynb
+        - file: how-to-guides/define_your_region.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
         - file: explanation/what_is_drought.md
+        - file: explanation/exposure.ipynb
+        - file: explanation/vulnerability.ipynb
+        - file: explanation/drought_risk.ipynb
     - file: references.ipynb
       title: References
       children:
