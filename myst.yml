@@ -36,8 +36,8 @@ project:
     - file: references.ipynb
       title: References
       children:
-        - file: references/about.md
-
+        - file: references/valorada.md
+        - file: references/ecde_data.md
 
 site:
   options:
