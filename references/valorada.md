@@ -1,7 +1,7 @@
-# The project behind this book: VALORADA
+# VALORADA
 
+The project behind this book is:
 ![Image](../img/valorada_logo.png "")
-
 
 VALORADA (Validated Local Risk Actionable Data for Adaptation) is a Horizon Europe project (Grant Agreement No. 101112837) with the goal to empower European regions and cities to steer societal transformation toward sustainable, climate‑resilient development. It aligns with the EU Adaptation Mission supporting 150 regions to become climate‑resilient by 2030 through: 
 - Accelerating societal transformations

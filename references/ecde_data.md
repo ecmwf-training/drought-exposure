@@ -1,4 +1,4 @@
-# Data from the European Climate Data Explorer (ECDE)
+# European Climate Data Explorer (ECDE)
 
 The European Climate Data Explorer (ECDE) is a web application developed by the Copernicus Climate Change Service (C3S), allowing users to explore past trends and projected future changes for a range of key climate indicators from multiple datasets. 
 
