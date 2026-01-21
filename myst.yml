@@ -33,6 +33,7 @@ project:
       children:
         - file: how-to-guides/download_data_from_cds.ipynb
         - file: how-to-guides/define_your_region.ipynb
+        - file: how-to-guides/compare_regions.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
@@ -40,6 +41,7 @@ project:
         - file: explanation/exposure.ipynb
         - file: explanation/vulnerability.ipynb
         - file: explanation/drought_risk.ipynb
+        - file: explanation/interpretation.ipynb
     - file: references.ipynb
       title: References
       children:
