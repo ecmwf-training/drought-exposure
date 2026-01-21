@@ -1,4 +1,4 @@
-# What is a drought?
+# About the hazard: drought
 
 Drought is a complex phenomenon — it develops slowly, varies across regions, and affects different parts of the water cycle in different ways.  
 To understand what drought is, we need to understand the types of drought, and how drought **indices** help to quantify drought and why they matter.
