@@ -38,10 +38,10 @@ project:
       title: Explanation
       children:
         - file: explanation/what_is_drought.md
-        - file: explanation/exposure.ipynb
-        - file: explanation/vulnerability.ipynb
-        - file: explanation/drought_risk.ipynb
-        - file: explanation/interpretation.ipynb
+        - file: explanation/exposure.md
+        - file: explanation/vulnerability.md
+        - file: explanation/drought_risk.md
+        - file: explanation/interpretation.md
     - file: references.ipynb
       title: References
       children:
