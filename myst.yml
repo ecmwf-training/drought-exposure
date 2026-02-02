@@ -34,6 +34,7 @@ project:
         - file: how-to-guides/download_data_from_cds.ipynb
         - file: how-to-guides/define_your_region.ipynb
         - file: how-to-guides/estimate_agricultural_land.ipynb
+        - file: how-to-guides/estimate_agricultural_land_corine.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
