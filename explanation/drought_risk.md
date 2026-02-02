@@ -15,7 +15,6 @@ Drought risk interpretation further includes understanding socioeconomic dimensi
 Finally, interpreting drought risk means evaluating how well a system can prepare for, respond to, and recover from drought. Early warning systems, national drought plans, coordinated governance structures, and proactive risk reduction strategies all influence overall drought risk. The UNCCD advocates for shifting from reactive crisis response to proactive drought risk management, supported by monitoring, forecasting, and anticipatory action.
 
 In summary, drought risk under the UNCCD framework is not defined by the drought event alone. It emerges from the interaction between natural hazards, the level of exposure, and the structural vulnerabilities of societies and ecosystems. Understanding and reducing drought risk therefore requires integrated action across land restoration, risk governance, climate adaptation, and sustainable development.
----
 
 ## Historical vs future risks
 
