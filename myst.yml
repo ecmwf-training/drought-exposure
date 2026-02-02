@@ -40,6 +40,7 @@ project:
         - file: explanation/what_is_drought.md
         - file: explanation/exposure.md
         - file: explanation/vulnerability.md
+        - file: explanation/hazard.md
         - file: explanation/drought_risk.md
         - file: explanation/interpretation.md
     - file: references.ipynb
