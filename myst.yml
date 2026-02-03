@@ -40,9 +40,10 @@ project:
       title: Explanation
       children:
         - file: explanation/what_is_drought.md
+        - file: explanation/hazard.md
         - file: explanation/exposure.md
         - file: explanation/vulnerability.md
-        - file: explanation/hazard.md
+        - file: explanation/indices.md
         - file: explanation/drought_risk.md
         - file: explanation/interpretation.md
     - file: references.ipynb
