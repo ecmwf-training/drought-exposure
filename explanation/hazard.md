@@ -1,4 +1,4 @@
-# Drought Hazard
+# Drought as a Hazard
 
 Drought hazard refers to the physical phenomenon of drought itself—the natural climatic conditions that lead to an extended period of water shortage. It includes the probability, frequency, duration, severity, and spatial extent of meteorological, agricultural, hydrological, or ecological drought events. In the UNCCD framework, the drought hazard is understood as a multi-dimensional climate-driven process that interacts with land conditions and long-term environmental change.
 At its core, the drought hazard originates from climatic variability. Reduced precipitation over a prolonged period is the most common trigger, but drought hazard is not defined by rainfall alone. High temperatures, increased solar radiation, persistent winds, and low humidity can significantly intensify a drought by accelerating evapotranspiration and depleting soil moisture. Even when rainfall patterns do not decline sharply, rising temperatures—driven by global climate change—can create conditions where water deficits emerge more rapidly and persist for longer.

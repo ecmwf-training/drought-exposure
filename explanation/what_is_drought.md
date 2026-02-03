@@ -1,4 +1,4 @@
-# What is a drought?
+# Drought has different faces
 
 Drought is a complex and slowly evolving phenomenon. It varies across regions and affects different parts of the water cycle in distinct ways.
 To understand drought properly, we need to look at its main types and the **indices** used to measure and compare drought conditions.
@@ -58,10 +58,6 @@ Affect groundwater recharge, lower aquifer levels, and contribute to persistent 
 
 In practice, different drought indices provide complementary insights into this evolution. SPI is a widely used indicator of meteorological drought, as it responds directly to precipitation anomalies. SPEI, by incorporating temperature-driven evaporative demand, helps bridge meteorological and agricultural drought, capturing the intensifying effects of heat. At longer accumulation periods — such as 12 months or more — both SPI and SPEI can serve as early signals of developing hydrological drought, reflecting prolonged deficits across multiple seasons.
 Together, these indices offer a more complete picture of how drought begins, propagates, and affects different components of the water cycle.
-
-
----
-
 
 ---
 
