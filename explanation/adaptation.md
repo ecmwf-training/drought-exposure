@@ -1,8 +1,7 @@
-# Interpretation of drought risk
+# Adaptation to drought risk
 
-
-Drought Adaptation: Acting on Hazard, Exposure, and Vulnerability
-According to the IPCC risk framework, drought risk emerges from the interaction of climate‑related hazards (e.g., frequency and intensity of drought events), exposure (people, land, and assets located in affected areas), and vulnerability (how susceptible those systems are to harm). Effective drought adaptation targets all three components. [climate-ad....europa.eu]
+Drought Adaptation: **Acting on Hazard, Exposure, and Vulnerability**
+According to the IPCC risk framework, drought risk emerges from the interaction of climate‑related hazards (e.g., frequency and intensity of drought events), exposure (people, land, and assets located in affected areas), and vulnerability (how susceptible those systems are to harm). Effective drought adaptation targets all three components. [climate-adapt.eea.europa.eu](https://climate-adapt.eea.europa.eu/en/knowledge/tools/adaptation-support-tool/step-2-1)
 
 - **1. Adapting by Reducing Drought Hazards**
 While drought hazards cannot be eliminated entirely, certain measures can modify the hydrological or ecological processes that influence drought severity. These focus on reducing the magnitude or impact intensity of the drought hazard itself.
@@ -12,10 +11,10 @@ Ecosystem restoration (e.g., wetlands, riparian zones) to enhance natural water 
 Soil and land management that improves infiltration and reduces runoff, helping increase local water availability during dry periods.
 Water storage systems — reservoirs, aquifer recharge, managed storage — to alleviate low‑flow conditions and seasonal water scarcity.
 
-These actions align with the hazard-focused portion of the IPCC risk framework, which classifies drought as a climate hazard resulting from shifts in precipitation and increasing aridity trends. [climate-ad....europa.eu]
+These actions align with the hazard-focused portion of the IPCC risk framework, which classifies drought as a climate hazard resulting from shifts in precipitation and increasing aridity trends. [climate-adapt.eea.europa.eu](https://climate-adapt.eea.europa.eu/en/knowledge/tools/adaptation-support-tool/step-2-1)
 
 - **2. Adapting by Reducing Exposure to Drought Impacts**
-Exposure refers to the presence of people, assets, infrastructure, and economic activities in areas where drought can cause harm. Reducing exposure means minimizing how many systems depend heavily on climate‑sensitive water resources. [climate-ad....europa.eu]
+Exposure refers to the presence of people, assets, infrastructure, and economic activities in areas where drought can cause harm. Reducing exposure means minimizing how many systems depend heavily on climate‑sensitive water resources. [climate-adapt.eea.europa.eu](https://climate-adapt.eea.europa.eu/en/knowledge/tools/adaptation-support-tool/step-2-1)
 Drought‑specific strategies to reduce exposure include:
 
 Climate‑informed land‑use planning, such as avoiding expansion of irrigated agriculture in water‑stressed basins.
@@ -29,19 +28,18 @@ Adaptation that reduces exposure changes the spatial or sectoral footprint of dr
 Vulnerability captures how sensitive systems are to drought and how well they can respond or recover. It depends on biophysical sensitivity (e.g., crop type, soil moisture dynamics) and adaptive capacity (e.g., irrigation, insurance, financial resilience). [unccd.int], [link.springer.com]
 Key drought vulnerability‑reduction measures include:
 
-Improving agricultural resilience:
+**Improving agricultural resilience:**
 
 Drought‑resistant crop varieties
 Conservation agriculture and improved soil organic matter
 Efficient irrigation (drip systems, deficit irrigation strategies)
 
 
-Strengthening water governance:
+**Strengthening water governance:**
 
 Allocation rules for scarcity
 Drought management plans
 Transparent early warning systems
-
 
 Social protection and livelihood diversification, reducing dependence on water‑sensitive sectors.
 Insurance mechanisms that help households and farmers absorb drought shocks.
