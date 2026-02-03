@@ -43,7 +43,7 @@ project:
         - file: explanation/vulnerability.md
         - file: explanation/indices.md
         - file: explanation/drought_risk.md
-        - file: explanation/interpretation.md
+        - file: explanation/adaptation.md
     - file: references.ipynb
       title: References
       children:

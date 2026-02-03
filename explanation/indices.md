@@ -1,4 +1,4 @@
-## Why drought indices?
+## Drought indices?
 
 Raw precipitation values alone don’t tell us whether a region is experiencing drought — is 50 mm of rainfall in a month “normal,” “too little,” or “a lot”?  
 To answer such questions, drought indices compare current conditions to typical long-term patterns and express **how unusual** they are.
