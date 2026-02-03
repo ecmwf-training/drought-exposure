@@ -5,7 +5,6 @@ To understand drought properly, we need to look at its main types and the **indi
 This page provides a concise overview of the three broad categories of drought — meteorological, agricultural, and hydrological — and then highlights two of the most widely used climate‑based drought indicators: the **Standardized Precipitation Index (SPI)** and the **Standardized Precipitation–Evapotranspiration Index (SPEI)**.
 For those who want to explore the topic in more depth, we also link to trusted sources, including the **World Meteorological Organization (WMO)**, **the European Drought Observatory (EDO)**, and the **Global Drought Observatory (GDO)**.
 
-
 ---
 
 ## Types of drought: meteorological, agricultural, and hydrological
@@ -30,6 +29,7 @@ Meteorological drought usually **unfolds over weeks to months** and marks the fi
 Agricultural drought occurs when **soil moisture** levels become too low to meet the needs of vegetation or crops (FAO, 2013). It develops in the root zone and upper soil layers, where plants draw water for growth. Even if rainfall deficits are moderate, rising temperatures or increased evaporative demand can accelerate soil drying, making this type of drought particularly sensitive to warming trends.
 To track agricultural drought, several indicators are commonly used. These include **soil moisture anomalies, the Evaporative Stress Index (ESI), and vegetation‑based metrics such as NDVI and other satellite‑derived indices**, which monitor plant stress. Climate‑based indices like SPEI can also signal agricultural drought because they account for temperature‑driven evaporative demand.
 Agricultural drought typically **develops over weeks to months** and can have immediate and severe impacts, including crop failures, vegetation stress, and an elevated risk of wildfires.
+
 ---
 
 ### Hydrological drought
@@ -37,6 +37,7 @@ Agricultural drought typically **develops over weeks to months** and can have im
 Hydrological drought refers to **long‑term shortages in water** stored or flowing through rivers, groundwater systems, lakes, and reservoirs (Van Loon, 2015). Unlike meteorological or agricultural drought, which develop more quickly, hydrological drought unfolds within the deep water cycle, where changes accumulate slowly and can persist long after rainfall has returned to normal.
 This form of drought is monitored using indicators such as **river discharge, groundwater levels, and reservoir storage**, each providing insight into how much water is available within different parts of the hydrological system.
 Hydrological drought **typically evolves over months to years**, making it the longest‑lasting type of drought and often the most disruptive. Its impacts can be far‑reaching, affecting water supply, navigation, hydropower production, and freshwater ecosystems that depend on stable and sufficient water flows.
+
 ---
 
 ### How drought types relate
