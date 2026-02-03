@@ -176,3 +176,5 @@ data/corine_landcover/U2018_CLC2012_V2020_20u1_raster100m/U2018_CLC2012_V2020_20
 .gitignore
 data/corine_landcover/U2012_CLC2006_V2020_20u1/U2012_CLC2006_V2020_20u1/U2012_CLC2006_V2020_20u1.tif
 data/corine_landcover/U2000_CLC1990_V2020_20u1/U2000_CLC1990_V2020_20u1/U2000_CLC1990_V2020_20u1.tif
+data/population/GHS_WUP_POP
+data/population/GHS_POP
