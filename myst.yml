@@ -25,9 +25,6 @@ project:
       title: Tutorials
       children:
         - file: tutorials/get_started.ipynb
-        - file: tutorials/historical_drought.ipynb
-        - file: tutorials/projected_drought.ipynb
-        - file: tutorials/exposure_land.ipynb
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
