@@ -1,4 +1,4 @@
-# Interpretation of drought risk
+# Drought risk estimation
 
 Drought risk reflects the likelihood and potential consequences of a drought event causing harm to people, ecosystems, and economies. According to the UNCCD, drought risk is understood as a combination of three core components: hazard, exposure, and vulnerability.
 
