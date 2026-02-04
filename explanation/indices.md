@@ -1,31 +1,29 @@
-## Drought indices?
+# Understanding Drought Indices
+Raw precipitation alone can’t tell us whether conditions are normal or unusually dry. For example, 50 mm of monthly rainfall may be abundant in one region and a deficit in another.
+Drought indices solve this by comparing current conditions to long‑term climate patterns, allowing us to understand how unusual current moisture conditions are.
+Why drought indices matter
+Drought indices help to:
 
-Raw precipitation values alone don’t tell us whether a region is experiencing drought — is 50 mm of rainfall in a month “normal,” “too little,” or “a lot”?  
-To answer such questions, drought indices compare current conditions to typical long-term patterns and express **how unusual** they are.
+- Compare regions with very different climates
+- Detect early warning signals of drought
+- Track severity and duration over time
+- Inform decisions in agriculture, water allocation, and risk management
 
-Drought indices help us:
-- Compare regions with very different climates  
-- Detect emerging drought early  
-- Monitor severity and persistence  
-- Support decision-making in agriculture, water management, and risk assessment  
+## Standardized Precipitation Index (SPI)
+The SPI (McKee et al., 1993) is one of the simplest and most widely used drought indicators.
+What SPI measures
+SPI represents precipitation anomalies over a chosen timescale, normalized by long‑term climatology.
+Different accumulation periods highlight different types of drought:
 
----
-
-## The Standardized Precipitation Index (SPI)
-
-The **Standardized Precipitation Index (SPI)** (McKee et al., 1993) is one of the simplest and most widely used drought indicators.
-
-**What it measures:**  
-SPI quantifies precipitation anomalies over a chosen accumulation period relative to a long-term climatology.
-
-Common accumulation periods:
 - **SPI-1** → short-term meteorological dryness  
 - **SPI-3** → seasonal impacts  
 - **SPI-12** → long-term hydrological stress  
 
-**Interpretation (WMO, 2012):**
+**How to interpret SPI values**
+(Based on WMO, 2012)
 
-| SPI value      | Interpretation        |
+
+| SPI value      | Meaning            |
 |----------------|------------------------|
 | > 2.0          | Extremely wet          |
 | 1.5–1.99       | Very wet               |
@@ -36,31 +34,30 @@ Common accumulation periods:
 | < -2.0         | Extremely dry          |
 
 **Strengths**
-- Simple, robust  
-- Requires only precipitation  
+- Very simple and robust
+- Uses only precipitation data
 - Comparable across climates  
 
 **Limitations**
-- Does **not** consider temperature or evaporative demand  
+- Ignores temperature and evaporative demand 
 
 ---
 
-## The Standardized Precipitation–Evapotranspiration Index (SPEI)
+## Standardized Precipitation–Evapotranspiration Index (SPEI)
+The **SPEI** (Vicente‑Serrano et al., 2010) builds on SPI by incorporating temperature effects through **evaporative demand**.
+**What SPEI measures**
+It’s based on the climatic water balance:
 
-The **SPEI** (Vicente-Serrano et al., 2010) extends SPI by including temperature-driven **evaporative demand**, which is especially relevant under climate warming.
+**Water balance = Precipitation – Potential Evapotranspiration (PET)**
 
-**What it measures:**  
-It uses a simple climatic water balance:
-
-> **Water balance = Precipitation – Potential Evapotranspiration (PET)**
-
-Hotter conditions increase PET, lowering the water balance even when rainfall is unchanged — SPEI captures this effect.
+Higher temperatures → higher PET → lower available moisture.
+SPEI captures this temperature‑driven intensification of drought, which is crucial under warming climates.
 
 **Advantages**
-- Accounts for temperature effects  
-- Sensitive to heat-driven drought intensification  
-- Flexible timescales (1–48 months)
+- Includes temperature and evaporative demand
+- Sensitive to heat‑stress‑related drought
+- Flexible across many timescales (1–48 months)
 
 **Limitations**
-- Requires PET estimation (method-dependent)  
-- Slightly more complex than SPI  
+- PET calculation can vary depending on method
+- Slightly more complex than SPI
