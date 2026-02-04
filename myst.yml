@@ -38,7 +38,6 @@ project:
         - title: Estimate Hazard
           children:
             - file: how-to-guides/estimate_drought_hazard.ipynb
-        - file: how-to-guides/estimate_regional_hazard.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
