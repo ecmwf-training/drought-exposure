@@ -32,7 +32,7 @@ project:
         - file: how-to-guides/define_your_region.ipynb
         - title: Estimate Hazard
           children:
-            - file: how-to-guides/estimate_drought_hazard.ipynb        
+            - file: how-to-guides/estimate_regional_hazard.ipynb        
         - title: Estimate Exposure
           children:
             - file: how-to-guides/estimate_population.ipynb
