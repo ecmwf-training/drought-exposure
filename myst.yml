@@ -25,20 +25,22 @@ project:
       title: Tutorials
       children:
         - file: tutorials/get_started.ipynb
+          title: Explore Exposure Data
+          children:
+                  - file: tutorials/population.ipynb
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
         - file: how-to-guides/download_data_from_cds.ipynb
         - file: how-to-guides/define_your_region.ipynb
-        - title: Estimate Exposure
+        - title: Process Exposure Data
           children:
-            - file: how-to-guides/estimate_population.ipynb
-            - file: how-to-guides/estimate_agricultural_land.ipynb
-            - file: how-to-guides/estimate_agricultural_land_corine.ipynb
-        - title: Estimate Hazard
+            - file: how-to-guides/population_ghs.ipynb
+            - file: how-to-guides/agricultural_land_satellite.ipynb
+            - file: how-to-guides/agricultural_land_corine.ipynb
+        - title: Process Hazard Data
           children:
-            - file: how-to-guides/estimate_drought_hazard.ipynb
-        - file: how-to-guides/estimate_regional_hazard.ipynb
+            - file: how-to-guides/drought_duration_ecde.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
