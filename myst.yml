@@ -30,14 +30,14 @@ project:
       children:
         - file: how-to-guides/download_data_from_cds.ipynb
         - file: how-to-guides/define_your_region.ipynb
+        - title: Estimate Hazard
+          children:
+            - file: how-to-guides/estimate_drought_hazard.ipynb        
         - title: Estimate Exposure
           children:
             - file: how-to-guides/estimate_population.ipynb
             - file: how-to-guides/estimate_agricultural_land.ipynb
             - file: how-to-guides/estimate_agricultural_land_corine.ipynb
-        - title: Estimate Hazard
-          children:
-            - file: how-to-guides/estimate_drought_hazard.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
