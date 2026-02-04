@@ -27,7 +27,7 @@ project:
         - file: tutorials/get_started.ipynb
           title: Explore Exposure Data
           children:
-                  - file: tutorials/population.ipynb
+            - file: tutorials/population.ipynb
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
