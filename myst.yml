@@ -27,6 +27,7 @@ project:
         - title: Storylines
           children:
             - file: tutorials/get_started.ipynb
+            - file: tutorials/drought_duration.ipynb
         - title: Explore Exposure Data
           children:
             - file: tutorials/population.ipynb
