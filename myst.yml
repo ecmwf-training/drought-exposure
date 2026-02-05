@@ -30,6 +30,7 @@ project:
         - title: Explore Exposure Data
           children:
             - file: tutorials/population.ipynb
+            - file: tutorials/agricultural_land.ipynb
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
