@@ -6,3 +6,7 @@ dependencies:
   - matplotlib
   - cartopy
   - jupyterlab-myst
+  - jupyterlab
+  - rioxarray
+  - regionmask
+  - geopandas
