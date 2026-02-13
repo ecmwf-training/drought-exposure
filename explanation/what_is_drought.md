@@ -1,6 +1,6 @@
 # Drought has different faces
 
-Drought is a complex and slowly evolving phenomenon. It varies across regions and affects different parts of the water cycle in distinct ways.
+Drought is a complex and slowly evolving phenomenon. It varies across geographical regions and affects different parts of the water cycle in distinct ways.
 To understand drought properly, we need to look at its main types and the **indices** used to measure and compare drought conditions.
 This page provides a concise overview of the three broad categories of drought — meteorological, agricultural, and hydrological — and then highlights two of the most widely used climate‑based drought indicators: the **Standardized Precipitation Index (SPI)** and the **Standardized Precipitation–Evapotranspiration Index (SPEI)**.
 For those who want to explore the topic in more depth, we also link to trusted sources, including the **World Meteorological Organization (WMO)**, **the European Drought Observatory (EDO)**, and the **Global Drought Observatory (GDO)**.
@@ -20,7 +20,7 @@ Understanding the major drought types helps interpret what drought indices can (
 
 Meteorological drought refers to a period in which precipitation falls significantly below what is considered normal for a specific region (Gibbs & Maher, 1967). It is the earliest form of drought to appear because it develops directly in the atmosphere, typically visible through unusual or persistent rainfall deficits.
 This type of drought is commonly measured **using climate‑based indicators** such as **percentiles, the Standardized Precipitation Index (SPI), and the Standardized Precipitation–Evapotranspiration Index (SPEI)**, which help detect and compare anomalies in precipitation patterns.
-Meteorological drought usually **unfolds over weeks to months** and marks the first stage in the broader drought cascade, often preceding agricultural and hydrological impacts.
+Meteorological drought usually **unfolds over weeks to months** and marks the first stage in the broader drought cascade, often preceding agricultural and hydrological droughts.
 
 ---
 
@@ -42,7 +42,7 @@ Hydrological drought **typically evolves over months to years**, making it the l
 
 ### How drought types relate
 
-Meteorological drought is often the initial trigger for drought development, and many events follow a **general sequence from meteorological → agricultural → hydrological drought**. However, real-world drought propagation is far more complex, and this progression does not always occur in a linear or predictable way.
+Meteorological drought is often the initial trigger for drought development, and many events follow a **general sequence from meteorological → agricultural → hydrological droughts**. However, real-world drought propagation is far more complex, and this progression does not always occur in a linear or predictable way.
 For example, **heatwaves** can cause agricultural drought even when rainfall is close to normal, because high temperatures increase evapotranspiration and accelerate soil drying. Conversely, **irrigation or intensive groundwater pumping** may temporarily buffer agricultural impacts, delaying the onset of visible plant stress. In the deeper water cycle, **hydrological drought** can persist long after rainfall returns, as rivers, aquifers, and reservoirs recover much more slowly. Local factors — such as soil properties, land‑use practices, and snowpack dynamics — can also speed up or slow down the transition between drought stages.
 Because of these complexities, the timescale of precipitation deficits becomes a crucial element in understanding drought evolution. Short deficits tend to affect soils and vegetation first, while prolonged deficits increasingly influence rivers, storage systems, and groundwater.
 A simplified way to view this progression is:
