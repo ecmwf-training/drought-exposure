@@ -49,13 +49,17 @@ project:
     - file: explanation.ipynb
       title: Explanation
       children:
-        - file: explanation/what_is_drought.md
-        - file: explanation/hazard.md
-        - file: explanation/exposure.md
-        - file: explanation/vulnerability.md
-        - file: explanation/indices.md
-        - file: explanation/drought_risk.md
-        - file: explanation/adaptation.md
+        - title: About Droughts
+          children:
+            - file: explanation/what_is_drought.md
+            - file: explanation/indices.md
+        - title: Towards Drought Risk Assessments
+          children: 
+            - file: explanation/hazard.md
+            - file: explanation/exposure.md
+            - file: explanation/vulnerability.md
+            - file: explanation/drought_risk.md
+            - file: explanation/adaptation.md
     - file: references.ipynb
       title: References
       children:
