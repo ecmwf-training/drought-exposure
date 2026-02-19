@@ -1,6 +1,7 @@
 dependencies:
   - cdsapi
   - numpy
+  - pandas
   - netCDF4
   - xarray
   - matplotlib
@@ -10,3 +11,5 @@ dependencies:
   - rioxarray
   - regionmask
   - geopandas
+  - tqdm
+  - folium
