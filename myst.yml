@@ -26,9 +26,7 @@ project:
       children:
         - title: Storylines
           children:
-            #- file: tutorials/get_started.ipynb
-            #- file: tutorials/drought_duration_exposure.ipynb
-            - file: tutorials/drought_duration.ipynb
+            - file: tutorials/drought_duration_exposure.ipynb
         - title: Explore Exposure Data
           children:
             - file: tutorials/population.ipynb
@@ -36,8 +34,10 @@ project:
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
-        - file: how-to-guides/download_data_from_cds.ipynb
-        - file: how-to-guides/define_your_region.ipynb
+        - title: Getting started
+          children:
+            - file: how-to-guides/download_data_from_cds.ipynb
+            - file: how-to-guides/define_your_region.ipynb
         - title: Process Exposure Data
           children:
             - file: how-to-guides/population_ghs.ipynb
