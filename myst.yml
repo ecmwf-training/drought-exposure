@@ -8,9 +8,6 @@ project:
   open_access: true
   exclude:
     - developer/*
-  # Hidden files - built but not displayed in table of contents
-  extra:
-    - file: tutorials/explore_nuts_regions.ipynb
   github: jkeune/drought_exposure
   thebe:
     binder:
@@ -34,6 +31,8 @@ project:
           children:
             - file: tutorials/population.ipynb
             - file: tutorials/agricultural_land.ipynb
+            - file: tutorials/explore_nuts_regions.ipynb
+              hidden: true
     - file: how-to-guides.ipynb
       title: How-To Guides
       children:
