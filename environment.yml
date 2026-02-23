@@ -13,3 +13,8 @@ dependencies:
   - geopandas
   - tqdm
   - folium
+  - plotly
+  - IPython
+  - pathlib 
+  - json
+  - ipywidgets
