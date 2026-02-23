@@ -8,6 +8,9 @@ project:
   open_access: true
   exclude:
     - developer/*
+  # Hidden files - built but not displayed in table of contents
+  extra:
+    - file: tutorials/explore_nuts_regions.ipynb
   github: jkeune/drought_exposure
   thebe:
     binder:
