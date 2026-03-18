@@ -26,7 +26,8 @@ project:
       children:
         - title: Storylines
           children:
-            - file: tutorials/drought_duration_exposure.ipynb
+            - file: tutorials/changing_drought_duration.ipynb
+            - file: tutorials/people_exposed_to_prolonged_droughts.ipynb
         - title: Explore Exposure Data
           children:
             - file: tutorials/population.ipynb
