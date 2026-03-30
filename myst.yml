@@ -66,6 +66,7 @@ project:
       children:
         - file: references/valorada.md
         - file: references/ecde_data.md
+        - file: references/fair.md
 
 site:
   options:
