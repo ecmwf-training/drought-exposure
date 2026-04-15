@@ -28,6 +28,7 @@ project:
           children:
             - file: tutorials/changing_drought_duration.ipynb
             - file: tutorials/people_exposed_to_prolonged_droughts.ipynb
+            - file: tutorials/agriculture_exposed_to_prolonged_droughts.ipynb
         - title: Explore Exposure Data
           children:
             - file: tutorials/population.ipynb
