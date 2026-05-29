@@ -14,6 +14,13 @@ Read more about the project behind this book!
 ```
 
 ```{grid-item-card}
+:link: references/ghs_population
+GHS Population 🗺️
+^^^
+Learn about the GHS-POP and GHS-WUP population datasets used as exposure data!
+```
+
+```{grid-item-card}
 :link: https://cds.climate.copernicus.eu/datasets/sis-ecde-climate-indicators?tab=overview
 ECDE data 🛢️
 ^^^
