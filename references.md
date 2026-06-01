@@ -21,10 +21,17 @@ Learn about the GHS-POP and GHS-WUP population datasets used as exposure data!
 ```
 
 ```{grid-item-card}
-:link: https://cds.climate.copernicus.eu/datasets/sis-ecde-climate-indicators?tab=overview
+:link: references/agricultural_land
+Agricultural Land Cover 🌾
+^^^
+Learn about the CORINE and satellite land cover datasets used as agricultural exposure data!
+```
+
+```{grid-item-card}
+:link: references/ecde_data
 ECDE data 🛢️
 ^^^
-Find the drought data in the Climate Data Store!
+Learn about the European Climate Data Explorer and the drought duration indicator used as hazard data!
 ```
 
 ````
