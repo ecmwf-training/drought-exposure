@@ -13,6 +13,6 @@ Under **Explore Exposure Data**, you'll find tutorials that read and visualise e
 - [Understanding Population Data](tutorials/population.ipynb)
 - [Understanding Agricultural Land Cover Changes](tutorials/agricultural_land.ipynb)
 
-💡 **Tip:** Many of these tutorials can be run with data already stored in the GitHub repository. If you'd like to create similar datasets for a different region, check out the [how-to guides](how-to-guides.ipynb)!
+💡 **Tip:** Many of these tutorials can be run with data already stored in the GitHub repository. If you'd like to create similar datasets for a different region, check out the [how-to guides](how-to-guides.md)!
 
 **The jupyter notebooks in these tutorials can be run on free online platforms, such as Binder, Kaggle and Colab, or they can be accessed from GitHub. The links to run this notebook in these environments are provided here, but please note they are not supported by ECMWF.** 

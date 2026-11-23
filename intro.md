@@ -11,7 +11,7 @@ This jupyter book is developed as part of the VALORADA project, which **empowers
 :gutter: 3
 
 ```{grid-item-card}
-:link: tutorials.ipynb
+:link: tutorials.md
 :link-type: doc
 🚀 Tutorials
 ^^^
@@ -19,7 +19,7 @@ Learn by doing! Follow step-by-step tutorials to explore drought data, create vi
 ```
 
 ```{grid-item-card}
-:link: how-to-guides.ipynb
+:link: how-to-guides.md
 :link-type: doc
 🔧 How-To Guides
 ^^^
@@ -27,7 +27,7 @@ Solve specific tasks! Short, focused guides for downloading data, defining regio
 ```
 
 ```{grid-item-card}
-:link: explanation.ipynb
+:link: explanation.md
 :link-type: doc
 💡 Explanation
 ^^^
@@ -35,7 +35,7 @@ Understand the concepts! Deep dives into drought science, risk frameworks, hazar
 ```
 
 ```{grid-item-card}
-:link: references.ipynb
+:link: references.md
 :link-type: doc
 📚 Reference
 ^^^

@@ -16,6 +16,6 @@ Under **Process Exposure Data**, you'll find guides for working with exposure da
 Under **Process Hazard Data**, you'll find guides for working with hazard datasets:
 - [Drought Duration Data (ECDE)](how-to-guides/drought_duration_ecde.ipynb)
 
-💡 **Tip:** Once you've created or downloaded your data, head over to the [tutorials](tutorials.ipynb) to explore and visualize your datasets in action!
+💡 **Tip:** Once you've created or downloaded your data, head over to the [tutorials](tutorials.md) to explore and visualize your datasets in action!
 
 **The jupyter notebooks in these tutorials can be run on free online platforms, such as Binder, Kaggle and Colab, or they can be accessed from GitHub. The links to run this notebook in these environments are provided here, but please note they are not supported by ECMWF.** 
